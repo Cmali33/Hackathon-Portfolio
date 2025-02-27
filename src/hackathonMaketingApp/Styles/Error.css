@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #3f87cf;
+    text-align: center;
+}
+.header{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #000;
+}
+.NavLink{
+  color: #000;
+  list-style-type: none;
+  font-size: xx-large;
+  font-weight: 900;
+  text-decoration: none;
+}
